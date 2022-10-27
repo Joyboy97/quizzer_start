@@ -55,7 +55,7 @@ All files          |   81.75 |    81.66 |   76.71 |   80.98 |
   QuestionEdit.tsx |   46.87 |    64.28 |      40 |   46.87 | 27-30,48,58-59,66-68,76-78,101-174,208,235,260 
   QuizCard.tsx     |     100 |       80 |     100 |     100 | 32                                             
   QuizEdit.tsx     |   85.18 |      100 |   73.33 |      84 | 35-38,73,101                                   
-  QuizExpanded.tsx |     100 |    85.71 |     100 |     100 | 74                                             
+  QuizExpanded.tsx |     100 |    85.71 |     100 |     100 | 73                                             
   QuizList.tsx     |     100 |      100 |     100 |     100 |                                                
   QuizQuestion.tsx |     100 |    85.71 |     100 |     100 | 24-31                                          
   QuizView.tsx     |     100 |      100 |     100 |     100 |                                                
@@ -65,5 +65,5 @@ All files          |   81.75 |    81.66 |   76.71 |   80.98 |
 Test Suites: 1 failed, 1 passed, 2 total
 Tests:       2 failed, 13 passed, 15 total
 Snapshots:   0 total
-Time:        5.885 s
+Time:        4.316 s
 Ran all test suites.
